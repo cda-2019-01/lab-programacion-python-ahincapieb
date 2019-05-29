@@ -50,3 +50,4 @@ for element in data:
 
 for key in sorted(result.keys()):  
      print(key + ',' + str(min(result[key])) + ',' + str(max(result[key])))
+
