@@ -35,4 +35,4 @@ for element in data:
 	result[element[1]].append(element[0])
 
 for i in sorted(result.items()):
-	print i
+	print(i)
